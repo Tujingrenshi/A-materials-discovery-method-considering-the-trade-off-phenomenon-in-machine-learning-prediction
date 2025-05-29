@@ -1,0 +1,1 @@
+# A-materials-discovery-method-considering-the-trade-off-phenomenon-in-machine-learning-prediction
